@@ -10,14 +10,12 @@ Major: Computer Science
 
 
 
-\## Skills
+## Skills
 
-\- Programming: C++, JavaScript
-
-\- Git: Advanced
-
-\- Database: SQL
-
+- Programming: Python, Java, C++, JavaScript
+- Git: Advanced
+- Web Development: HTML, CSS
+- Database: SQL
 
 
 \## Projects
