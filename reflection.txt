@@ -1,0 +1,17 @@
+1. Why did the conflict occur?
+The conflict occurred because both branches (main and desktop-updates) changed the same section of the portfolio file (Skills section). Git could not automatically decide which changes to keep.
+
+2. What lines in the file were changed in both branches?
+Both branches modified the Skills section in portfolio.md, but each branch added different programming languages and tools.
+
+3. What would have prevented this conflict?
+The conflict could have been prevented by better coordination between branches, pulling the latest changes before editing, and avoiding editing the same lines in multiple branches at the same time.
+
+4. In real life, how do you avoid conflicts when working on multiple devices?
+In real projects, developers avoid conflicts by regularly pulling updates from the main branch, communicating with team members, and making small frequent commits instead of large overlapping changes.
+
+5. What was the most challenging part of resolving the conflict?
+The most challenging part was understanding and correctly removing the conflict markers (<<<<<<<, =======, >>>>>>>) and combining both versions of the changes properly.
+
+6. How did Git help you identify where the conflict was?
+Git clearly marked the conflicting section inside the file using conflict markers and showed which lines came from each branch, making it easier to locate and fix the issue.
