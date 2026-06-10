@@ -12,9 +12,11 @@ Major: Computer Science
 
 \## Skills
 
-\- Programming: Basic
+\- Programming: Python, Java
 
-\- Git: Learning
+\- Git: Intermediate
+
+\- Web Development: HTML, CSS
 
 
 
